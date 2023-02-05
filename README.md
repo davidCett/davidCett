@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi 👋, I'm David Cettolo
 
-<!--
-**davidCett/davidCett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught and curious software developer 💻
 
-Here are some ideas to get you started:
+I currently work for Gruppo Euris S.p.a. as a software engineer associate 🛠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools that I use on daily work:
+
+C#, .NET, ASP.NET, MSSQL, POSTGRESQL, MongoDB, Terraform, Jenkins, Docker, AWS
+
+## Hobbies
+
+- Sports 🤸‍♂️
+- Outdoor 🌳
+- Food 🍝
+
+## Connect with me:
+<p align="left">- Linkedin: <a href="https://linkedin.com/in/davidcettolo" target="blank">davidcettolo</a></p>
