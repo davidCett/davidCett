@@ -6,7 +6,7 @@ I currently work for Gruppo Euris S.p.a. as a software engineer associate 🛠
 
 ## Languages and Tools that I use on daily work:
 
-C#, .NET, ASP.NET, MSSQL, POSTGRESQL, MongoDB, Terraform, Jenkins, Docker, AWS
+C# · .NET · ASP.NET · MSSQL · PostgreSQL · MongoDB · Terraform · Jenkins · Docker · AWS
 
 ## Hobbies
 
