@@ -1,18 +1,14 @@
-# Hi 👋, I'm David Cettolo
+### Hi there, I'm David Cettolo
 
-I’m a self-taught and curious software developer 💻
+- 📚 I’m a self-taught software engineer
+- 🏢 Software engineer @ Gruppo Euris S.p.a.
 
-I currently work for Gruppo Euris S.p.a. as a software engineer associate 🛠
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidCett&layout=compact&show_icons=true&card_width=445&theme=solarized-light)
 
-## Languages and Tools that I use on daily work:
+### 📫 Connect with me:
+[<img align="left" alt="alls | LinkedIn" width="50px" style="color:red" src="linkedin_logo.svg">][linkedin]
+[<img align="left" alt="alls | Gmail" width="50px" style="color:blue" src="gmail_logo.svg" />][gmail]
 
-C# · .NET · ASP.NET · MSSQL · PostgreSQL · MongoDB · Terraform · Jenkins · Docker · AWS
+[linkedin]: https://linkedin.com/in/davidcettolo
+[gmail]: mailto:david.cettolo.tech@gmail.com
 
-## Hobbies
-
-- Sports 🤸‍♂️
-- Outdoor 🌳
-- Food 🍝
-
-## Connect with me:
-<p align="left">- Linkedin: <a href="https://linkedin.com/in/davidcettolo" target="blank">davidcettolo</a></p>
